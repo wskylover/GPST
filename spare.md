@@ -1,6 +1,7 @@
 ---
 layout: default
 title: spare website
+description: 使用方法同聚合搜索
 ---
 
 ## 備用站點
