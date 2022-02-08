@@ -7,7 +7,7 @@ title: spare website
 
 儅聚合搜索工具出現問題時可以分別**點擊**以下鏈接(*网站_GPST*)進行搜索
 
-**[返回聚合搜索]**(./index.html)
+[返回聚合搜索](./index.html)
 
 1.[YouTube_GPST](https://cse.google.com/cse?cx=518ed58d6de534dad)
 
