@@ -8,8 +8,6 @@ description: 使用方法同聚合搜索
 
 儅聚合搜索工具出現問題時可以分別**點擊**以下鏈接(*网站_GPST*)進行搜索
 
-[返回聚合搜索](./index.html)
-
 1.[YouTube_GPST](https://cse.google.com/cse?cx=518ed58d6de534dad)
 
 2.[Twitter_GPST](https://cse.google.com/cse?cx=36cfbdbd796144e44)
@@ -25,3 +23,6 @@ description: 使用方法同聚合搜索
 7.[Tumblr_GPST](https://cse.google.com/cse?cx=76a83e4809cf0495d)
 
  8.[Tiktok_GPST](https://cse.google.com/cse?cx=d731f72b56ba94e60)
+
+
+## [返回聚合搜索](./index.html)
