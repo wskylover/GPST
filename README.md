@@ -1,4 +1,4 @@
-## gpst
+## GPST
 
 **gpst** is a set of group search tools 
 
@@ -26,10 +26,11 @@
     </script>
     <div class="gcse-search"></div>
 
-**暫時停用，改用新的聚合搜索**
+**暫時停用，可用新的聚合搜索**
 
 # [群組聚合搜索](https://cse.google.com/cse?cx=d5ff14b6646b6441c)
     
     <script async src="https://cse.google.com/cse.js?cx=d5ff14b6646b6441c">
     </script>
     <div class="gcse-search"></div>
+
